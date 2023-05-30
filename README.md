@@ -1,4 +1,4 @@
-# react-web3
+# react-web3-account
 
 使用以太坊智能合約練習帳戶餘額應用
 
